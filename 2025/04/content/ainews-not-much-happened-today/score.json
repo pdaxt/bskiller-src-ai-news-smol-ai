@@ -1,9 +1,60 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 3.0,
-  "bs_rating": "verified",
-  "scored_at": "2026-03-25T14:30:45Z",
+  "bs_score": 5.0,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-25T14:31:41Z",
   "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
   "flagged_for_debate": false,
-  "dimensions": []
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 2.0,
+      "weight": 0.15,
+      "rationale": "AI News (ButtonDown) classified as tier_5 (unclassified or low-reliability source, reliability: 20%); 427 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 10.0,
+      "weight": 0.2,
+      "rationale": "weak credibility signals (2.0); contains data/benchmark references; references academic work; methodology described; 25605 words (depth +1.5); high citation density (16.7/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 8.0,
+      "weight": 0.15,
+      "rationale": "open source / code available; methodology described; data availability mentioned; contains data tables/figures; proprietary/closed approach"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.5,
+      "weight": 0.15,
+      "rationale": "includes counterarguments (balanced perspective)"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 1.0,
+      "weight": 0.15,
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; 7 vague patterns -- highly uncertain consensus; 427 references cited -- broad sourcing; contains counterarguments (contested area)"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.5,
+      "weight": 0.1,
+      "rationale": "7 vague patterns: coming soon, up to , potentially, could be, might be, is expected to, is going to; heavy hype language reduces specificity; 12 percentage figures (highly specific); contains data tables/figures; long-form article (25605 words)"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 1.0,
+      "weight": 0.1,
+      "rationale": "AI News (ButtonDown): insufficient history to assess; 15 red flags detected (track record penalty: -3); 9 green flags detected (+2.0)"
+    }
+  ]
 }

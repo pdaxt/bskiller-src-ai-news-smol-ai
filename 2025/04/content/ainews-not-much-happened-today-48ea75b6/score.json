@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.0,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-08 06:21:06",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "AI News (ButtonDown) classified as tier_5 (unclassified or low-reliability source, reliability: 20%); 427 source links cited",
+      "score": 2.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "weak credibility signals (2.0); contains data/benchmark references; references academic work; methodology described; 25605 words (depth +1.5); high citation density (16.7/1k words)",
+      "score": 10.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "open source / code available; methodology described; data availability mentioned; contains data tables/figures; proprietary/closed approach",
+      "score": 8.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "includes counterarguments (balanced perspective)",
+      "score": 5.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; 7 vague patterns -- highly uncertain consensus; 427 references cited -- broad sourcing; contains counterarguments (contested area)",
+      "score": 1.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "7 vague patterns: coming soon, up to , potentially, could be, might be, is expected to, is going to; heavy hype language reduces specificity; 12 percentage figures (highly specific); contains data tables/figures; long-form article (25605 words)",
+      "score": 4.5,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "AI News (ButtonDown): insufficient history to assess; 15 red flags detected (track record penalty: -3); 9 green flags detected (+2.0)",
+      "score": 1.0,
+      "weight": 0.1
+    }
+  ]
+}

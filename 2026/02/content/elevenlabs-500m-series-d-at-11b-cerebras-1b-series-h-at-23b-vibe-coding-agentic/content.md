@@ -1,0 +1,7 @@
+# ElevenLabs $500m Series D at $11B, Cerebras $1B Series H at $23B, Vibe Coding -> Agentic Engineering
+
+Source: [AI News (smol.ai)](https://news.smol.ai/issues/26-02-04-elevenlabs-cerebras/)
+
+---
+
+**Google's Gemini 3** is being integrated widely, including a new **Chrome side panel** and **Nano Banana** UX features, with rapid adoption and a **78% unit-cost reduction** in serving costs. The **Gemini app** reached **750M+ MAU** in Q4 2025, nearing ChatGPT's user base. Google is also benchmarking AI "soft skills" through games like Poker and Chess in the **Kaggle Game Arena**. Meanwhile, coding agents are converging in IDEs: **VS Code** launched **Agent Sessions** supporting **Claude** and **Codex** agents with features like parallel subagents and integrated browsers. **GitHub Copilot** now allows agent choice between **Claude** and **OpenAI Codex** for async backlog clearing. OpenAI reports **1M+ active users** for Codex with expanded integration surfaces, though some users request better GPU support. The coding-agent ecosystem is professionalizing with community platforms like **OpenClaw** and tooling such as ClawHub and CLI updates. *"Gemini 3 adoption faster than any other model"* and *"VS Code as home for coding agents"* highlight major industry shifts.

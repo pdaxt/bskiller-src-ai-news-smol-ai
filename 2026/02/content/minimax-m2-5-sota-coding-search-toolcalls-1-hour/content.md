@@ -1,0 +1,7 @@
+# MiniMax-M2.5: SOTA coding, search, toolcalls, $1/hour
+
+Source: [AI News (smol.ai)](https://news.smol.ai/issues/26-02-13-minimax25/)
+
+---
+
+**MiniMax-M2.5** is now open source, featuring an "agent-native" reinforcement learning framework called **Forge** trained across **200k+ RL environments** for coding, tool use, and workflows. It boasts strong benchmark scores like **80.2% SWE-Bench Verified** and emphasizes cost-efficiency with claims like "$1 per hour at 100 tps" and good on-device performance. The **Forge** RL system uses multi-level prefix caching and high rollout compute share (~60%) to generate millions of trajectories daily. Independent reviews note improved stability and multi-turn viability but high token usage. The ecosystem rapidly adopted MiniMax-M2.5 with quantized releases including **2-bit GGUF** and **INT4** formats. Meanwhile, **Together** markets **GLM-5** as a leading open-source model for long-horizon agents with **77.8% SWE-Bench Verified** and MoE efficiency using DeepSeek Sparse Attention.

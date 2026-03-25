@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.7,
+  "bs_rating": "Mixed Evidence",
+  "scored_at": "2026-03-25T19:46:14Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 2.0,
+      "weight": 0.15,
+      "rationale": "'new Gemini 3 Deep Think, Anthropic $30B @ $380B, GPT-5.3-...' -- AI News (smol.ai) is unclassified or low-reliability source (tier_5, reliability: 20%) reporting on Anthropic, Google, DeepMind, GPT-5"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 6.0,
+      "weight": 0.2,
+      "rationale": "references specific benchmarks: ARC-AGI benchmark; references academic work; specific figures cited: '**ARC-AGI-2 at 84.6%', 't Exam (HLE) at 48.4%', '$30B'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "'new Gemini 3 Deep Think, Anthropic $30B @ $380B, GPT-5.3-...' (Anthropic, Google, DeepMind, GPT-5) -- no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "AI News (smol.ai) covers Anthropic, Google, DeepMind, GPT-5 -- no overt promotional language, but independence not confirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'new Gemini 3 Deep Think, Anthropic $30B @ $380B, GPT-5.3-...' -- not cross-referenced against external expert consensus"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.5,
+      "weight": 0.1,
+      "rationale": "cites concrete figures: '**ARC-AGI-2 at 84.6%', 't Exam (HLE) at 48.4%', '$30B'"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 3.0,
+      "weight": 0.1,
+      "rationale": "AI News (smol.ai) on Anthropic/Google topics -- insufficient history to assess"
+    }
+  ]
+}

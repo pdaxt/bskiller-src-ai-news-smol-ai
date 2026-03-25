@@ -1,1 +1,25 @@
-{"source_name":"Ai News Smol Ai","repo":"bskiller-src-ai-news-smol-ai","story_count":69,"last_updated":"2026-03-25T07:40:11Z","months":["2026-03"]}
+{
+  "version": "1.0",
+  "source_name": "Ai News Smol Ai",
+  "repo": "bskiller-src-ai-news-smol-ai",
+  "story_count": 34,
+  "last_updated": "2026-03-25T08:56:53Z",
+  "months": [
+    {
+      "month": "2026-03",
+      "story_count": 4
+    },
+    {
+      "month": "2026-02",
+      "story_count": 16
+    },
+    {
+      "month": "2026-01",
+      "story_count": 4
+    },
+    {
+      "month": "2025-04",
+      "story_count": 10
+    }
+  ]
+}

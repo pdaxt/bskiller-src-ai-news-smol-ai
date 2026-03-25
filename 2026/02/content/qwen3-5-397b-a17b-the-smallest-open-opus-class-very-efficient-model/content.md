@@ -1,0 +1,7 @@
+# Qwen3.5-397B-A17B: the smallest Open-Opus class, very efficient model
+
+Source: [AI News (smol.ai)](https://news.smol.ai/issues/26-02-16-qwen35/)
+
+---
+
+**Alibaba** released **Qwen3.5-397B-A17B**, an open-weight model featuring **native multimodality**, **spatial intelligence**, and a **hybrid linear attention + sparse MoE** architecture supporting **201 languages** and **long context windows** up to **256K tokens**. The model shows improvements over previous versions like **Qwen3-Max** and **Qwen3-VL**, with a sparsity ratio of about **4.3%**. Community discussions highlighted the **Gated Delta Networks** enabling efficient inference despite large model size (~**800GB BF16**), with successful local runs on Apple Silicon using quantization techniques. The hosted API version, **Qwen3.5-Plus**, supports **1M context** and integrates search and code interpreter features. This release follows other Chinese labs like **Z.ai**, **Minimax**, and **Kimi** in refreshing large models. The model is licensed under **Apache-2.0** and is expected to be the last major release before **DeepSeek v4**. The news also notes **Pete Steinberger** joining **OpenAI**.

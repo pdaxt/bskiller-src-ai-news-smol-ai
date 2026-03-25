@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.9,
+  "bs_rating": "Mixed Evidence",
+  "scored_at": "2026-03-25T19:45:59Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 2.0,
+      "weight": 0.15,
+      "rationale": "'Anthropic launches the MCP Apps open spec, in Claude.ai' -- AI News (smol.ai) is unclassified or low-reliability source (tier_5, reliability: 20%) reporting on OpenAI, Anthropic, NVIDIA, Claude"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 4.5,
+      "weight": 0.2,
+      "rationale": "mentions benchmarks or datasets"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "'Anthropic launches the MCP Apps open spec, in Claude.ai' (OpenAI, Anthropic, NVIDIA, Claude) -- no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "AI News (smol.ai) covers OpenAI, Anthropic, NVIDIA, Claude -- no overt promotional language, but independence not confirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'Anthropic launches the MCP Apps open spec, in Claude.ai' -- not cross-referenced against external expert consensus"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 5.0,
+      "weight": 0.1,
+      "rationale": "'Anthropic launches the MCP Apps open spec, in Claude.ai' -- no specific or falsifiable claims identified"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 3.0,
+      "weight": 0.1,
+      "rationale": "AI News (smol.ai) on OpenAI/Anthropic topics -- insufficient history to assess"
+    }
+  ]
+}

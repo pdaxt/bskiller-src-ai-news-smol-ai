@@ -1,0 +1,7 @@
+# Anthropic accuses DeepSeek, Moonshot, and MiniMax of "industrial-scale distillation attacks".
+
+Source: [AI News (smol.ai)](https://news.smol.ai/issues/26-02-23-anthropic-distillation/)
+
+---
+
+**Anthropic** alleges *industrial-scale* distillation attacks on its **Claude** model by **DeepSeek**, **Moonshot AI**, and **MiniMax**, involving **~24,000 fraudulent accounts** and **>16M Claude exchanges** to extract capabilities, raising concerns about competitive risks and safety. The community debates the difference between scraping and API-output extraction, highlighting a shift toward protecting models via *API abuse resistance* techniques. Meanwhile, coding agents like **Codex** and **Claude Code** see real adoption and failures, with emerging best practices in "agentic engineering" led by **Simon Willison**. The **OpenClaw** ecosystem expands with alternatives like **NanoClaw** and integrations such as **Ollama 0.17** simplifying open model usage.

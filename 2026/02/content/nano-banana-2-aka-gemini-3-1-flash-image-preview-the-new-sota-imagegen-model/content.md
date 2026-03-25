@@ -1,0 +1,7 @@
+# Nano Banana 2 aka Gemini 3.1 Flash Image Preview: the new SOTA Imagegen model
+
+Source: [AI News (smol.ai)](https://news.smol.ai/issues/26-02-26-nanobanana2/)
+
+---
+
+**Google and DeepMind** launched **Nano Banana 2** (aka **Gemini 3.1 Flash Image Preview**), a leading image generation and editing model integrated across multiple Google products with features like **4K upscaling**, **multi-subject consistency**, and **real-time search-conditioned generation**. Evaluations rank it #1 in text-to-image tasks with competitive pricing. Additionally, advances in **agentic coding** are noted with models like **GPT-5.2**, **GPT-5.3 Codex**, **Opus 4.6**, and **Gemini 3.1**, alongside Microsoft's **Copilot Tasks** introducing task delegation. Persistent memory features are rolling out in **Claude** models, though interoperability challenges remain.

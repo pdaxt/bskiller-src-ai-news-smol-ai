@@ -1,0 +1,7 @@
+# MiniMax 2.7: GLM-5 at 1/3 cost SOTA Open Model
+
+Source: [AI News (smol.ai)](https://news.smol.ai/issues/26-03-18-not-much/)
+
+---
+
+**MiniMax M2.7** is the headline model release, described as a "self-evolving agent" with strong performance metrics including **56.22% on SWE-Pro**, **57.0% on Terminal Bench 2**, and parity with **Sonnet 4.6**. It features recursive self-improvement in skills, memory, and architecture. **Artificial Analysis** places M2.7 on the cost/performance frontier with an Intelligence Index score of **50**, matching **GLM-5 (Reasoning)** but at a fraction of the cost. Distribution is available via platforms like **Ollama cloud** and **OpenRouter**. **Xiaomi’s MiMo-V2-Pro** is noted as a serious Chinese API-only reasoning model with a score of **49** on the Intelligence Index and favorable token efficiency. **Cartesia’s Mamba-3** is highlighted as an SSM optimized for inference-heavy use, with early reactions focusing on hybrid transformer architectures like **Qwen3.5** and **Kimi Linear**. The report emphasizes a shift from prompting to harness engineering, where the execution environment and agent harnesses, including skills and MCP, are becoming key differentiators in AI system design. This includes discussions on tools, repo legibility, constraints, and feedback loops, with mentions of **DSPy** and **GPT-5.4 mini** as important components in this evolving landscape.

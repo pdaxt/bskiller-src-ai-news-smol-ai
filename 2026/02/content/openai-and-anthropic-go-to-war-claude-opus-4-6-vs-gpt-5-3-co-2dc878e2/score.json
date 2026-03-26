@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 4.8,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Career impact: hiring mentioned",
+  "bs_score": 6.3,
+  "bs_rating": "High BS",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "'OpenAI and Anthropic go to war: Claude Opus 4.6 vs GPT 5....' -- AI News (smol.ai) is unclassified or low-reliability source (tier_5, reliability: 20%) reporting on OpenAI, Anthropic, Google, Meta. Cites: according to this announcement",
+      "score": 2.0,
       "weight": 0.15
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "references specific benchmarks: arXiv paper reference, GitHub repository, HuggingFace model/dataset, GPQA benchmark, ARC-AGI benchmark; references academic work; specific figures cited: 't benchmarks with 25%', 'rminalBench 2 = 65.4%', 'nd together with ~40%'",
+      "score": 6.0,
       "weight": 0.2
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "links to GitHub repository and HuggingFace model/dataset; methodology described",
+      "score": 8.0,
       "weight": 0.15
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "sponsored/promotional content signals",
+      "score": 3.0,
       "weight": 0.15
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "'OpenAI and Anthropic go to war: Claude Opus 4.6 vs GPT 5....' uses heavy hype language (10.0/10) -- claim likely ahead of expert consensus; hedging language ('up to ', 'as much as', 'potentially') suggests the source itself isn't confident",
+      "score": 1.0,
       "weight": 0.15
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "6 vague patterns",
-      "score": 7.0,
+      "rationale": "vague hedging: 'up to ', 'as much as', 'potentially', 'could be'; cites concrete figures: 't benchmarks with 25%', 'rminalBench 2 = 65.4%', 'nd together with ~40%'",
+      "score": 1.0,
       "weight": 0.1
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
+      "rationale": "AI News (smol.ai) on OpenAI/Anthropic topics -- insufficient history to assess",
+      "score": 3.0,
       "weight": 0.1
     }
-  ],
-  "scored_at": "2026-03-25T10:41:58.616014+00:00"
+  ]
 }

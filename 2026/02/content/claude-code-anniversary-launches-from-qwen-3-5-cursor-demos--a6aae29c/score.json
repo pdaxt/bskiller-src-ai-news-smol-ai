@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.3,
+  "bs_rating": "High BS",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'Claude Code Anniversary + Launches from: Qwen 3.5, Cursor...' -- AI News (smol.ai) is unclassified or low-reliability source (tier_5, reliability: 20%) reporting on OpenAI, Anthropic, Google, Meta. Cites: according to a tweet from Alibaba",
+      "score": 2.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "references specific benchmarks: HuggingFace model/dataset, SWE-bench benchmark; references academic work; specific figures cited: 't throughput\u2014\u201c30%', 'reported SOTA at 72%', 'a ceiling (e.g., ~95%'",
+      "score": 6.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "links to HuggingFace model/dataset; methodology described",
+      "score": 8.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "sponsored/promotional content signals",
+      "score": 3.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'Claude Code Anniversary + Launches from: Qwen 3.5, Cursor...' uses heavy hype language (10.0/10) -- claim likely ahead of expert consensus; hedging language ('up to ', 'potentially', 'could be') suggests the source itself isn't confident",
+      "score": 1.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "vague hedging: 'up to ', 'potentially', 'could be', 'might be'; cites concrete figures: 't throughput\u2014\u201c30%', 'reported SOTA at 72%', 'a ceiling (e.g., ~95%'",
+      "score": 1.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "AI News (smol.ai) on OpenAI/Anthropic topics -- insufficient history to assess",
+      "score": 3.0,
+      "weight": 0.1
+    }
+  ]
+}

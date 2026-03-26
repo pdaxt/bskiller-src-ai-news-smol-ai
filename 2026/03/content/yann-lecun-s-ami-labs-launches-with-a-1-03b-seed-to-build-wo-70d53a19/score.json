@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.2,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Startup opportunity",
+  "bs_score": 6.2,
+  "bs_rating": "High BS",
+  "career_angle": "Follow the money to understand where job growth will be in 12-18 months. Big funding rounds create hiring waves.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "'Yann LeCun\u2019s AMI Labs launches with a $1.03B seed to buil...' -- AI News (smol.ai) is unclassified or low-reliability source (tier_5, reliability: 20%)",
+      "score": 2.0,
       "weight": 0.15
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "specific figures cited: '$1.03B', '$1.03B', '$3.5B'",
+      "score": 3.0,
       "weight": 0.2
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "'Yann LeCun\u2019s AMI Labs launches with a $1.03B seed to buil...' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
       "weight": 0.15
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
+      "rationale": "'Yann LeCun\u2019s AMI Labs launches with a $1.03B seed to buil...' -- no overt promotional language from AI News (smol.ai), but independence not confirmed",
       "score": 5.0,
       "weight": 0.15
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
+      "rationale": "'Yann LeCun\u2019s AMI Labs launches with a $1.03B seed to buil...' -- not cross-referenced against external expert consensus",
       "score": 5.0,
       "weight": 0.15
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
-      "score": 3.0,
+      "rationale": "cites concrete figures: '$1.03B', '$1.03B', '$3.5B'",
+      "score": 5.5,
       "weight": 0.1
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
+      "rationale": "AI News (smol.ai) -- insufficient history to assess",
+      "score": 3.0,
       "weight": 0.1
     }
-  ],
-  "scored_at": "2026-03-25T10:42:25.605703+00:00"
+  ]
 }

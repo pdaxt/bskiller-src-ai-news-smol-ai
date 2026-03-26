@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 4.8,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Career impact: hiring mentioned",
+  "bs_score": 6.3,
+  "bs_rating": "High BS",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "'Agentic Engineering: WTF Happened in December 2025?' -- AI News (smol.ai) is unclassified or low-reliability source (tier_5, reliability: 20%) reporting on OpenAI, Anthropic, Google, Meta. Cites: According to this tweet",
+      "score": 2.0,
       "weight": 0.15
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "references specific benchmarks: arXiv paper reference, MMLU benchmark, GPQA benchmark, SWE-bench benchmark; references academic work; specific figures cited: 'h claimed gains: ~25%', 'noisy): e.g., \u201c86%', 'an show more than 50%'",
+      "score": 6.0,
       "weight": 0.2
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "references open source code/models; methodology described",
+      "score": 8.0,
       "weight": 0.15
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "sponsored/promotional content signals",
+      "score": 3.0,
       "weight": 0.15
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
+      "rationale": "'Agentic Engineering: WTF Happened in December 2025?' uses heavy hype language (10.0/10) -- claim likely ahead of expert consensus; hedging language ('up to ', 'potentially', 'could be') suggests the source itself isn't confident",
+      "score": 1.0,
       "weight": 0.15
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "6 vague patterns",
-      "score": 7.0,
+      "rationale": "vague hedging: 'up to ', 'potentially', 'could be', 'might be'; cites concrete figures: 'h claimed gains: ~25%', 'noisy): e.g., \u201c86%', 'an show more than 50%'",
+      "score": 1.0,
       "weight": 0.1
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
+      "rationale": "AI News (smol.ai) on OpenAI/Anthropic topics -- insufficient history to assess",
+      "score": 3.0,
       "weight": 0.1
     }
-  ],
-  "scored_at": "2026-03-25T10:41:28.480401+00:00"
+  ]
 }
